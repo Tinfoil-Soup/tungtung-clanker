@@ -1,7 +1,7 @@
 // LAST GAME IS dungeons and degenerate gamble
 let files = [
   "cl1",
-"connor_you_do_NOT_own_ts",
+"cl1_connor_you_do_NOT_own_ts",
 "cl100RoomsOfEnemies",
 "cl10bullets",
 "cl10minutestildawn",
