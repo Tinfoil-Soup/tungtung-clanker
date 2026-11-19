@@ -1,6 +1,6 @@
 // LAST GAME IS dungeons and degenerate gamble
 let files = [
-  "connor does NOT own ts",
+  "connor you do NOT own ts",
   "cl1",
 "cl100RoomsOfEnemies",
 "cl10bullets",
